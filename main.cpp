@@ -1,6 +1,6 @@
 #include <SFML/Config.hpp>
 #include <iostream>
-# include crono
+
 int main() {
     std::cout << "SFML Version: "
               << SFML_VERSION_MAJOR << "."
